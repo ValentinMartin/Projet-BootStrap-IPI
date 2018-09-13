@@ -1,0 +1,96 @@
+.navbar {
+  overflow: hidden;
+  background-color: #131835;
+  /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  padding-left:3rem;
+}
+
+/* Links inside the navbar */
+.navbar .navlink {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar .navlink:hover {
+  background: #ddd;
+  color: black;
+}
+
+.navcontainer{
+  display: flex;
+  justify-content:space-between;
+  padding:0 1rem;
+  width: 100%;
+}
+
+.responsive-nav {
+  display: inline;
+  color:white;
+  width:2rem;
+  height:2rem;
+  margin:2rem 2rem;
+}
+
+.items-responsive-nav{
+  vertical-align:center;
+  padding-top:0.75rem;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #131835;
+  color: white;
+  text-align: center;
+  justify-content:center;
+  display: flex;
+  padding: 0;
+  color: #fff;
+}
+
+footer ul {
+  display: flex;
+  list-style: none;
+}
+
+footer li{
+  margin-right:0.5rem;
+}
+
+footer li a {
+ color: white;
+}
+
+footer li a:hover {
+ color: white;
+}
+
+.footercontainer {
+  display: flex; /* or inline-flex */
+}
+
+.container{
+  margin:0;
+  padding: 0;
+  max-width:97%;
+}
+
+.bg1{
+  background-image: url("../img/homepage1.jpg");
+  background-size: contain;
+  height:561px;
+  background-repeat: no-repeat;
+}
+
+.logo{
+  width:75%
+}
