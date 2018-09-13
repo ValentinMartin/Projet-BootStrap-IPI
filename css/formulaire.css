@@ -1,0 +1,30 @@
+main{
+	width: 100%;
+	color:#1D2541;
+
+}
+.flexBoxColumn{
+	display: flex;
+	flex-direction: column;
+}
+.flexBoxRow{
+	display: flex;
+	flex-direction: row;
+}
+.lblForm{
+	padding-left: 0;
+}
+.btnEnvoyer{
+	background-color: #131835;
+	color: white;
+	font-style:bolder;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	border: none;
+}
+.ligneLabel{
+	margin-top: 2rem;
+}
+.ligneLabel2{
+	margin-top: 0.5rem;
+}
