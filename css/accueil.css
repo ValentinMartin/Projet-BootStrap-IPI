@@ -40,3 +40,56 @@
   top:-15rem;
   left:35rem;
 }
+
+.txt-box{
+  background-color: white;
+  width: 18rem;
+  padding:2rem;
+  font-size: 12px;
+  position: relative;
+  top:-20rem;
+  left:10rem;
+}
+
+.txtcolor{
+  color: #131835;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.notice-container{
+
+}
+
+.notice {
+  position: relative;
+  top:-20rem;
+  left:55rem;
+  padding: 15px;
+  background-color: #fafafa;
+  border-left: 6px solid #131835;
+  margin-bottom: 10px;
+  -webkit-box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+     -moz-box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+          box-shadow: 0 5px 8px -6px rgba(0,0,0,.2);
+}
+
+.notice-info {
+    border-color: #131835;
+    font-weight: bold;
+    width: 20rem;
+}
+
+.img-bottom{
+  position: relative;
+  top:-20rem;
+  left:22rem;
+}
+
+.img1{
+    width:30%;
+}
+
+.img2{
+    width:20%;
+}
