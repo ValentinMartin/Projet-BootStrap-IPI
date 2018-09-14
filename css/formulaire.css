@@ -3,6 +3,12 @@ main{
 	color:#1D2541;
 
 }
+#pageFormulaire{
+	margin-top: 5rem;
+}
+form{
+	margin-bottom: 5rem;
+}
 .flexBoxColumn{
 	display: flex;
 	flex-direction: column;
