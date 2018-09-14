@@ -56,11 +56,6 @@
   font-weight: bolder;
   font-size: 20px;
 }
-
-.notice-container{
-
-}
-
 .notice {
   position: relative;
   top:-20rem;
@@ -92,4 +87,28 @@
 
 .img2{
     width:20%;
+}
+#ptitCarreAuMilieu{
+  position: relative;
+  text-align: center;
+  padding-top: 1rem;
+  right: -13rem;
+  top:-2rem;
+  width: 20rem;
+  height: 4rem;
+  background-color:#0D1225;
+  color: white;
+  border:5px solid white;
+}
+#ptitCarreAuDessusDuFooter{
+  position: relative;
+  text-align: center;
+  padding-top: 1rem;
+  width: 15rem;
+  height: 4rem;
+  right: -31rem;
+  top:-2rem;
+  background-color:#0D1225;
+  color: white;
+  border:5px solid white;
 }
