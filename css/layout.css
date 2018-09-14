@@ -1,5 +1,7 @@
 
 .navbar {
+
+  z-index: 500;
   position: fixed;
   overflow: hidden;
   background-color: #131835;
