@@ -28,3 +28,15 @@
   height: 0;
   padding-top: 32.03%;
 }
+
+.txt-header{
+  position: relative;
+  top:-11rem;
+  left:20rem;
+}
+
+.img-header{
+  position: relative;
+  top:-15rem;
+  left:35rem;
+}
