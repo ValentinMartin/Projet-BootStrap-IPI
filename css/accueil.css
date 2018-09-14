@@ -1,13 +1,21 @@
-.container{
-  margin:0;
-  padding: 0;
-  max-width:97%;
+.bg2{
+  background-image: url("../img/bloc1.png");
+  background-size:contain;
+  background-repeat:   no-repeat;
+  background-color: #b4e4e3;
+
 }
 
-.bg1{
-  background-image: url("../img/homepage1.jpg");
-  background-size: contain;
-  height:561px;
-  background-repeat: no-repeat;
+.bg3{
+  background:  linear-gradient(rgba(180, 228, 227, 0.75),rgba(180, 228, 227, 0.75)),
+  url("../img/bloc2.png");
+  background-size:contain;
+  background-repeat:   no-repeat;
+}
 
+.bg4{
+  background:  linear-gradient(rgba(231, 202, 134, 0.75),rgba(180, 228, 227, 0.75)),
+  url("../img/bloc3.png");
+  background-size:contain;
+  background-repeat:   no-repeat;
 }
