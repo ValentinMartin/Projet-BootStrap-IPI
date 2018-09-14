@@ -9,5 +9,9 @@
 }
 .divCentre img{
 	width: 100%;
-	z-index: -100;
+	margin-bottom: 2.5rem;
+	margin-top: 2.5rem;
+}
+.chemin{
+	margin-top: 4rem;
 }
